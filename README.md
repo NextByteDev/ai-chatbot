@@ -7,7 +7,7 @@ This conversational app can chat about anything and even answer basic real-world
 
 ### 🤖 Demo
 
-![preview](preview.png)
+![preview](preview.PNG)
 
 ### 🧠 Features
 
@@ -17,15 +17,6 @@ This conversational app can chat about anything and even answer basic real-world
 - 📄 Download your full chat conversation
 - 🧹 Clear chat history with a single click
 - 💾 Auto-saves chat to a file (`chat_history.json`)
-
----
-
-### 🚀 Demo
-
-> Just type a message in the input box and watch your AI buddy reply!  
-It even pretends to have feelings sometimes 😄
-
-![chatbot-demo](https://your-screenshot-or-gif-url-here)
 
 ---
 
