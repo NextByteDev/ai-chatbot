@@ -9,6 +9,8 @@ This conversational app can chat about anything and even answer basic real-world
 
 ![preview](preview.PNG)
 
+---
+
 ### 🧠 Features
 
 - 💬 Chat with an AI powered by DialoGPT
@@ -51,6 +53,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+---
+
 ## 📁 File Structure
 
 ```bash
@@ -61,6 +65,8 @@ streamlit run app.py
 ├── requirements.txt
 └── README.md
 ```
+
+---
 
 ## 🧠 Future Ideas
 - 🔧 Add smarter grounding or fine-tune responses
