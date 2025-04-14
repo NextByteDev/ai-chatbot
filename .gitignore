@@ -1,0 +1,22 @@
+# Virtual environments
+venv/
+.venv/
+ai-*-env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment/config files
+.env
+*.env
+
+# VSCode settings (optional)
+.vscode/
